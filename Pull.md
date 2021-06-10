@@ -18,4 +18,5 @@ If there is any upstream conncetion established, you can use` git pull` without 
 ---
 
 [Back to home](../README.md)
--[git pull](,/Commands/Pull,md)
+-[git pull](,/Commands/Pull,md
+)
